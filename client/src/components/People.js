@@ -4,8 +4,8 @@ import gapi from "gapi-client";
 
 
 const SCOPES = "https://www.googleapis.com/auth/contacts";
-const API_KEY = "AIzaSyCSf1-IG3ADsjIzS-okI1M1VjpmJw-MGOY";
-const CLIENT_ID=  "668015857961-f8ht4ug825hiuqrni22hnssi0ub2duul.apps.googleusercontent.com"
+const API_KEY = "";
+const CLIENT_ID=  ""
 class People extends Component {
   constructor(props) {
     super(props);
